@@ -40,4 +40,3 @@ for(let i = 1 ; i<=10; i++){
     console.log(`odd number: ${i}`)
 }
 
-//hi this is the changes because of checking github
